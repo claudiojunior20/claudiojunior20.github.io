@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+ .título{
+  margin-left: 500;
+    color: rgb(172, 150, 29);
+    font-family: "Metal Mania", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+
+ }
+ .col-md-12{
+  font-size: 1px;
+ }
+ .h2{
+  color: blueviolet;
+  font: italic;
+ }
+ 
