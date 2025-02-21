@@ -1,12 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+body{
+  font-size: 100px;
+  color: aqua;
+}
+body{
+  background: url(upscalemedia-transformed2.png);
+  background-repeat: no-repeat;
+
+  
+}
  .título{
   margin-left: 500;
-    color: rgb(172, 150, 29);
+   
     font-family: "Metal Mania", serif;
   font-weight: 400;
   font-style: normal;
   text-align: center;
 
+ }
+ .casadacoruja{
+  width: auto;
+  height: auto;
+  border: solid gold;
+  color: goldenrod;
+  background-color: rgb(0, 56, 0);
+  padding: 10px;
+  background: url(light.jfif);
+ }
+ .DecayingWinter{
+  position: absolute;
+  width: 1500px;
+  height: auto;
+  border: solid black;
+  color: green;
+  font-size: 50x;
+  font-family: "Rubik Distressed", serif;
+  background-color: rgba(255, 0, 0, 0.37);
+  background: url(decayingwinter.jfif);
+  background-size: cover;
+
+ }
+ .DW{
+  font-family: "Rubik Distressed", serif;
+  font-weight: 400;
+color: rgb(44, 85, 40);
+ }
+
+ .PGR{
+color: rgb(214, 0, 0);
  }
  .col-md-12{
   font-size: 1px;
