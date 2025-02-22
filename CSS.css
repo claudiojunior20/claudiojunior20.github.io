@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
-body{
-  font-size: 100px;
-  color: aqua;
-}
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
 body{
   background: url(upscalemedia-transformed2.png);
-  background-repeat: no-repeat;
-
+  background-repeat:repeat;
+background-size: auto;
   
 }
  .título{
@@ -48,7 +46,12 @@ color: rgb(44, 85, 40);
  }
 
  .PGR{
+  width: auto;
+  height: auto;
+  border: solid black;
 color: rgb(214, 0, 0);
+font-family: "Silkscreen", serif;
+font-weight: 400;
  }
  .col-md-12{
   font-size: 1px;
