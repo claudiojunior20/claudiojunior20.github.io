@@ -12,7 +12,9 @@ background-size: cover
 .inicio{
   width: auto;
   height: auto;
-  color: gold;
+   color: rgb(72, 218, 32);
+  border: solid silver;
+  background-color: gold;
 }
  .título{
   margin-left: 500;
