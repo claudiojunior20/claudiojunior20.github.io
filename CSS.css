@@ -45,8 +45,11 @@ background-size: auto;
 color: rgb(44, 85, 40);
  }
 
+ .inv1{
+  color: black;
+ }
  .PGR{
-  width: auto;
+  width: 1700px;
   height: auto;
   border: solid black;
 color: rgb(214, 0, 0);
