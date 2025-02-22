@@ -8,6 +8,9 @@ body{
 background-size: cover
   
 }
+.inicio{
+  color: gold;
+}
  .título{
   margin-left: 500;
    
@@ -17,10 +20,19 @@ background-size: cover
   text-align: center;
 
  }
+ .KH{
+  height: auto;
+  width: auto;
+  border: silver solid;
+  color: brown;
+  background-color: rgb(126, 126, 126);
+  
+ }
  .casadacoruja{
   width: auto;
   height: auto;
   border: solid gold;
+  padding: 20px;
   color: goldenrod;
   background-color: rgb(0, 56, 0);
   padding: 10px;
@@ -31,6 +43,7 @@ background-size: cover
   width: 1500px;
   height: auto;
   border: solid black;
+  padding: 20px;
   color: green;
   font-size: 50x;
   font-family: "Rubik Distressed", serif;
@@ -45,22 +58,16 @@ background-size: cover
 color: rgb(44, 85, 40);
  }
 
- .inv1{
-  color: black;
- }
+ 
+ 
  .PGR{
-  width: 1700px;
+  width: 1500px;
   height: auto;
   border: solid black;
+  padding: 5px;
 color: rgb(214, 0, 0);
 font-family: "Silkscreen", serif;
 font-weight: 400;
+background-color: rgb(79, 16, 16);
  }
- .col-md-12{
-  font-size: 1px;
- }
- .h2{
-  color: blueviolet;
-  font: italic;
- }
- 
+
