@@ -10,6 +10,8 @@ background-size: cover
   
 }
 .inicio{
+  width: auto;
+  height: auto;
   color: gold;
 }
  .título{
